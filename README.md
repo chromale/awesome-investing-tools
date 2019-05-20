@@ -17,7 +17,7 @@ Feel free to contribute.
 - [Dividend.com](https://www.dividend.com/) - Library of dividend paying stocks with own rating system
 - [SureDividend.com](https://www.suredividend.com/) - Premium newsletter & news focused on dividend stocks
 
-#### Company research
+### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
 
 ### News
