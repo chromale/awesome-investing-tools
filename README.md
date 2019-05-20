@@ -30,7 +30,5 @@ Feel free to contribute.
 
 ### P2P
 - [Mintos.com](https://www.mintos.com/en/l/ref/J0TXFI) - Most popular P2P lending in Europe. Auto-invest, possible to enable buy back guarantee
-
 - [Estateguru.co](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU69303) - Invest into properties across baltic states, Finland and Spain. All investment are property-backed. One of safest P2P.
-
 - [Upstart.com](https://www.upstart.com/invest/) - Most popular P2P lending in US
