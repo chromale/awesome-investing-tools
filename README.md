@@ -13,13 +13,16 @@ Feel free to contribute.
 - [Finbox.io](https://finbox.io/) - For people loving charts and visual. Deep look into specific stocks
 
 ### Dividend oriented
-- [Dividend.watch](https://dividend.watch/) - Powerful dividend calculator & screener
+- [Dividend.watch](https://dividend.watch/) - Powerful dividend calculator & portfolio tracker
+- [Digrin.com](https://digrin.com/) - Dividend portfolio manager focused on dividend growth investors
 - [Dividend.com](https://www.dividend.com/) - Library of dividend paying stocks with own rating system
 - [SureDividend.com](https://www.suredividend.com/) - Premium newsletter & news focused on dividend stocks
 
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
-
+- [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
+- [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
+- 
 ### News
 - [Seekingalpha.com](https://seekingalpha.com/) - Curated news from lot of different sources
 - [Yahoo Finance](https://finance.yahoo.com/) - Classic finance & business news
