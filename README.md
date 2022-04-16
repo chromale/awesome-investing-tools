@@ -35,3 +35,6 @@ Feel free to contribute.
 - [Mintos.com](https://www.mintos.com/en/l/ref/J0TXFI) - Most popular P2P lending in Europe. Auto-invest, possible to enable buy back guarantee
 - [Estateguru.co](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU69303) - Invest into properties across baltic states, Finland and Spain. All investment are property-backed. One of safest P2P.
 - [Upstart.com](https://www.upstart.com/invest/) - Most popular P2P lending in US
+
+### Portfolio management
+- [Ghostfolio](https://ghostfol.io) - Open source wealth management software to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
