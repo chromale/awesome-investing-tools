@@ -24,6 +24,7 @@ Feel free to contribute.
 - [SureDividend.com](https://www.suredividend.com/) - Premium newsletter & news focused on dividend stocks
 
 ### Company research
+- [13finsight.com](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis and insider trading data
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
