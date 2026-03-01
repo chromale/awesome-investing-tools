@@ -9,6 +9,7 @@ Feel free to contribute.
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
 - [Ghostfolio](https://ghostfol.io) - Open source wealth management software to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+- [rebalance](https://github.com/cjroth/rebalance) - Interactive portfolio rebalancing tool that imports brokerage CSV data, sets target allocations, and generates trade instructions.
 
 
 ### Stock screeners
