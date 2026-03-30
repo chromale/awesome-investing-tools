@@ -51,5 +51,8 @@ Feel free to contribute.
 - [Interactive Brokers](https://www.interactivebrokers.com/)
 - [Trading212](https://www.trading212.com/)
 - [XTB](https://www.xtb.com/)
+
+### Congressional Trade Tracking (AI-powered)
+- - [CongressionalStockBrain](https://congressionalstockbrain.com) - AI-powered tool that ingests publicly filed U.S. STOCK Act congressional trade disclosures and converts them into machine-scored trade signals for retail investors. Free tier available; Pro at $7.77/month.
 - [Lynx](https://www.lynxbroker.com/)
 - [eToro](https://etoro.com/)
