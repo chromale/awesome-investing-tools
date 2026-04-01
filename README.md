@@ -5,7 +5,7 @@ Feel free to contribute.
 
 ### Learning materials
 - [Investopedia university](https://www.investopedia.com/university/) - Great library full of knowledge and explainer videos
-
+- [KeepRule](https://keeprule.com) - Free database of 1,377 investment principles from 26 legendary investors (Buffett, Munger, Graham, Dalio). AI chat, psychology tests, and deep-dive strategy articles.
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
 - [Ghostfolio](https://ghostfol.io) - Open source wealth management software to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
