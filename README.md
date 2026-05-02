@@ -25,6 +25,7 @@ Feel free to contribute.
 
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
+- [Insider Alerts](https://insideralerts.io) - SEC Form 4 insider buying and selling alerts with ticker watchlists, searchable public filings, and Telegram notifications.
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
