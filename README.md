@@ -25,6 +25,7 @@ Feel free to contribute.
 
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
+- [Stonking.net](https://stonking.net) - Free pre-calculated DCF, Graham, and Dividend Discount Model valuations for US stocks with margin of safety analysis
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
