@@ -5,6 +5,7 @@ Feel free to contribute.
 
 ### Learning materials
 - [Investopedia university](https://www.investopedia.com/university/) - Great library full of knowledge and explainer videos
+- [Warren Buffett Life Simulator](https://ordinarymantrying.com/tools/buffett-simulator.html) - Face 7 pivotal decisions from Buffett's career blind. Learn his decision framework by making the calls yourself first. Free.
 
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
@@ -16,6 +17,7 @@ Feel free to contribute.
 - [TradingView.com](https://www.tradingview.com/screener/) - Advanced stock screening and research
 - [Finviz.com](https://finviz.com/) - Fast and powerful stock screener, old & reliable UI
 - [Finbox.io](https://finbox.io/) - For people loving charts and visual. Deep look into specific stocks
+- [10x Stock Screener](https://ordinarymantrying.com/tools/10x-stock-screener.html) - Filter stocks by moat strength, management quality, and margin of safety. Browser-based, free.
 
 ### Dividend oriented
 - [Dividend.watch](https://dividend.watch/) - Powerful dividend calculator & portfolio tracker
