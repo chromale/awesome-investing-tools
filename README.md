@@ -26,6 +26,7 @@ Feel free to contribute.
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
+- [ValuationBot](https://valuationbot.ai/) - AI stock valuation and equity research software with filing analysis, DCF scenarios, investment memos, and editable Excel models
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
 
