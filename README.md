@@ -25,6 +25,7 @@ Feel free to contribute.
 
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
+- [FilingFirehose.com](https://filingfirehose.com/) - Free per-ticker SEC forensic risk score flagging cyber events, dilution, restatement risk, officer departures, and bankruptcy proximity from 8-K, 10-K, 10-Q, S-3 filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
