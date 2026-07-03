@@ -25,6 +25,7 @@ Feel free to contribute.
 
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
+- [PortfolioSavvy](https://portfoliosavvy.com/) - Public SEC ownership research for 13F holders, CUSIP ownership history, insider activity, and 13D/G filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
