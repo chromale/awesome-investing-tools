@@ -16,6 +16,7 @@ Feel free to contribute.
 - [TradingView.com](https://www.tradingview.com/screener/) - Advanced stock screening and research
 - [Finviz.com](https://finviz.com/) - Fast and powerful stock screener, old & reliable UI
 - [Finbox.io](https://finbox.io/) - For people loving charts and visual. Deep look into specific stocks
+- [KeepWinning.ai](https://keepwinning.ai/) - Finviz-style screener covering US, European and Nordic markets. Trend labels from MA50/MA200 plus quarterly fundamentals on every card
 
 ### Dividend oriented
 - [Dividend.watch](https://dividend.watch/) - Powerful dividend calculator & portfolio tracker
