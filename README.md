@@ -28,6 +28,7 @@ Feel free to contribute.
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
+- [QuantLink](https://www.quantlink.ai) - AI equity research terminal for US stocks: deep-research agents grounded in SEC filings, a stock screener, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking. Free tier available.
 
 ### News
 - [Seekingalpha.com](https://seekingalpha.com/) - Curated news from lot of different sources
