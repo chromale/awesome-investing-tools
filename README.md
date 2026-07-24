@@ -8,6 +8,7 @@ Feel free to contribute.
 
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
+- [FN2](https://fn2.ai) - AI market analyst for investors: personalized daily briefings, deep stock research, and scheduled agents that monitor watchlists and earnings.
 - [Ghostfolio](https://ghostfol.io) - Open source wealth management software to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
 
 
