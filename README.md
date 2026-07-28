@@ -26,6 +26,7 @@ Feel free to contribute.
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
+- [Fair Value Calculator](https://www.fairvalue-calculator.com) - Free fair value and quality score for 35,000+ global stocks from 21 valuation models, with an honest evidence status. No sign-up; free CSV/JSON data exports and embeddable widgets.
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
 
