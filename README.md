@@ -25,6 +25,7 @@ Feel free to contribute.
 
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
+- [DUEL](https://duelstocks.com) - Free tool to compare any two US-listed stocks head-to-head on 8 fundamentals computed exclusively from official SEC EDGAR filings (10-K/10-Q).
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
