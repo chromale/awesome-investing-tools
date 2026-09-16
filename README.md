@@ -9,6 +9,7 @@ Feel free to contribute.
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
 - [Ghostfolio](https://ghostfol.io) - Open source wealth management software to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+- [Future Value Calculator](https://future-value-calculator.com/) - Free investment and retirement calculators for future value, deposits, withdrawals, inflation, and scenario estimates.
 
 
 ### Stock screeners
