@@ -27,6 +27,7 @@ Feel free to contribute.
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
+- [La Plata](https://laplata.one/en/) - Free Argentina-focused company and market research, with dated market data, financial indicators and exchange-rate references.
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
 
 ### News
