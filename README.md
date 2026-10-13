@@ -5,6 +5,7 @@ Feel free to contribute.
 
 ### Learning materials
 - [Investopedia university](https://www.investopedia.com/university/) - Great library full of knowledge and explainer videos
+- [Pehle Samjho filings course](https://pehlesamjho.com/learn/filings) - Free walkthrough for reading Pakistan Stock Exchange company filings
 
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
@@ -24,6 +25,7 @@ Feel free to contribute.
 - [SureDividend.com](https://www.suredividend.com/) - Premium newsletter & news focused on dividend stocks
 
 ### Company research
+- [Pehle Samjho](https://pehlesamjho.com) - Free AI research assistant for PSX equities (Pakistan)
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
