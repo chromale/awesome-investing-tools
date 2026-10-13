@@ -5,7 +5,7 @@ Feel free to contribute.
 
 ### Learning materials
 - [Investopedia university](https://www.investopedia.com/university/) - Great library full of knowledge and explainer videos
-- [Pehle Samjho filings course](https://pehlesamjho.com/learn/filings) - Free walkthrough for reading Pakistan Stock Exchange company filings
+- [Pehle Samjho filings course](https://pehlesamjho.com/psx/learn/filings) - Free walkthrough for reading Pakistan Stock Exchange company filings
 
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
