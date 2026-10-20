@@ -9,6 +9,7 @@ Feel free to contribute.
 ### General tools
 - [PolarNote](https://polarnote.ai) - Investing note-taking, second brain for investment notes, watchlist and portfolio. AI live analysis.
 - [Ghostfolio](https://ghostfol.io) - Open source wealth management software to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+- [capital-gains-toolkit](https://github.com/stockavg/capital-gains-toolkit) - Open-source Python that works out weighted average cost, FIFO lot matches, the 61-day wash-sale window, long-term capital gains bands and the Schedule D capital loss carryover worksheet.
 
 
 ### Stock screeners
