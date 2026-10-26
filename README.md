@@ -28,6 +28,7 @@ Feel free to contribute.
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
+* [Level Industry Benchmarks & Trade Economy Index](https://levelcfo.com/benchmarks/) - Free operating margin, valuation multiple, and public contractor cash/equity datasets across US service, retail, and construction sectors ([TradesIndex](https://tradesindex.org)).
 
 ### News
 - [Seekingalpha.com](https://seekingalpha.com/) - Curated news from lot of different sources
