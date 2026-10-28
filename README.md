@@ -16,6 +16,7 @@ Feel free to contribute.
 - [TradingView.com](https://www.tradingview.com/screener/) - Advanced stock screening and research
 - [Finviz.com](https://finviz.com/) - Fast and powerful stock screener, old & reliable UI
 - [Finbox.io](https://finbox.io/) - For people loving charts and visual. Deep look into specific stocks
+- [Wave Radar](https://waveradar.us/) - Technical screener for 7,000+ US and Asian stocks: 75 technical signals with per-stock historical win rates, gamma exposure, fair-value bands and AI analysis of macro and breaking news. Free account available
 
 ### Dividend oriented
 - [Dividend.watch](https://dividend.watch/) - Powerful dividend calculator & portfolio tracker
