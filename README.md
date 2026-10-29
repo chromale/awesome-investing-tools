@@ -26,6 +26,7 @@ Feel free to contribute.
 ### Company research
 - [Docoh.com](https://docoh.com/) - UX friendly scanning through SEC filings
 - [Gurufocus.com](https://www.gurufocus.com/) - In-depth stock research and following guru's picks
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research workspace that seeks counter-evidence before forming a thesis. Reading, Research, Radar, investment framework and free valuation tools.
 - [Strike.market](https://strike.market/) - Alternative companies data for stock market trends research
 - [Everythingmoney.com](https://everythingmoney.com/) - Check stocks using their "8 pillars analysis" method
 
