@@ -12,7 +12,6 @@ Feel free to contribute.
 - [Redstone](https://redstonemarkets.com) - Free return and risk analytics for about 2,900 US stocks and 1,200 ETFs (Sharpe, Sortino, max drawdown, beta, correlation, backtests), with a public read-only MCP server for AI assistants.
 
 
-
 ### Stock screeners
 - [Simplywall.st](https://simplywall.st/) - For people loving charts and visual. Deep look into specific stocks
 - [TradingView.com](https://www.tradingview.com/screener/) - Advanced stock screening and research
