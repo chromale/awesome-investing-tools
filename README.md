@@ -16,6 +16,7 @@ Feel free to contribute.
 - [TradingView.com](https://www.tradingview.com/screener/) - Advanced stock screening and research
 - [Finviz.com](https://finviz.com/) - Fast and powerful stock screener, old & reliable UI
 - [Finbox.io](https://finbox.io/) - For people loving charts and visual. Deep look into specific stocks
+- [eStockes](https://estockes.com/screener) - U.S. stock screener with market-cap, sector and volume filters and shareable screens.
 
 ### Dividend oriented
 - [Dividend.watch](https://dividend.watch/) - Powerful dividend calculator & portfolio tracker
